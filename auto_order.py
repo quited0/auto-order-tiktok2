@@ -6,7 +6,7 @@ API_URL = "https://www.jagososmed.com/api/json.php"
 
 SERVICE_ID = 5735
 TARGET_DATA = "https://www.tiktok.com/@anishclip/video/7513911683279113490"
-QUANTITY = 11
+QUANTITY = 33
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
