@@ -4,9 +4,9 @@ import requests
 API_KEY = "CNDM6NOEqtBJxL4vaUo7UGs8"
 API_URL = "https://www.jagososmed.com/api/json.php"
 
-SERVICE_ID = 5561
-TARGET_DATA = "https://www.tiktok.com/@itsshieubank/video/7518154461710339346"
-QUANTITY = 57
+SERVICE_ID = 5752
+TARGET_DATA = "https://www.instagram.com/reel/DLLl9BLNDrg/"
+QUANTITY = 11
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
